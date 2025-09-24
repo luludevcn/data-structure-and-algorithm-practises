@@ -1,0 +1,25 @@
+{
+  "name": "data-structure-and-algorithm-practises",
+  "version": "1.0.0",
+  "description": "本仓库旨在通过 TypeScript 语言系统性地练习和实现常见的数据结构与算法问题，涵盖数组、堆、栈、队列、链表、二叉树等基础数据结构，以及排序、查找、递归、分治、贪心、动态规划等常见算法思想。每个模块均包含典型例题与实际应用场景，适合刷题、面试准备和算法能力提升。",
+  "homepage": "https://github.com/luludevcn/data-structure-and-algorithm-practises#readme",
+  "bugs": {
+    "url": "https://github.com/luludevcn/data-structure-and-algorithm-practises/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luludevcn/data-structure-and-algorithm-practises.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.1.3",
+    "ts-jest": "^29.4.4"
+  }
+}
